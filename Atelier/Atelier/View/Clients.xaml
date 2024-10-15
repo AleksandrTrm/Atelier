@@ -1,0 +1,156 @@
+﻿<UserControl x:Class="Atelier.View.Clients"
+			xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+			xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+            xmlns:vm="clr-namespace:Atelier.ViewModel"
+			Width="622"
+			Height="600">
+
+    <UserControl.DataContext>
+        <vm:ClientsVM/>
+    </UserControl.DataContext>
+
+    <Grid>
+        <Border Background="#272B2F"
+                CornerRadius="0,20,20,0"/>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Button Style="{StaticResource SimpleButtonStyle}"
+                        Name="DeleteClientBtn"
+                        Command="{Binding DeleteCommand}">
+                    <TextBlock 
+                        Style="{StaticResource TextStyle}" 
+                        FontFamily="{StaticResource Montserrat}">
+                        Delete client</TextBlock>
+                </Button>
+
+                <Button Style="{StaticResource SimpleButtonStyle}"
+                        Name="SaveBtn"
+                        Grid.Column="1"
+                        Visibility="Visible"
+                        Command="{Binding EditCommand}"
+                        Click="ReturnBtn_Click">
+                    <TextBlock 
+                            Style="{StaticResource TextStyle}" 
+                            FontFamily="{StaticResource Montserrat}">
+                            Save</TextBlock>
+                </Button>
+
+                <Button Style="{StaticResource SimpleButtonStyle}"
+                        Name="ReturnBtn"
+                        Visibility="Collapsed" 
+                        Click="ReturnBtn_Click">
+                        <TextBlock 
+                            Style="{StaticResource TextStyle}" 
+                            FontFamily="{StaticResource Montserrat}">
+                            Return</TextBlock>
+                </Button>
+
+                <Button Grid.Column="2" 
+                        Style="{StaticResource SimpleButtonStyle}" 
+                        Name="AddClientBtn" Click="AddClientBtn_Click">
+                    <TextBlock 
+                        Style="{StaticResource TextStyle}"
+                        FontFamily="{StaticResource Montserrat}">
+                        Add client</TextBlock>
+                </Button>
+
+            </Grid>
+
+            <DataGrid Style="{StaticResource DataGridStyle}" 
+                      Name="ClientsDataGrid" 
+                      Grid.Row="1"
+                      Padding="0, 5, 0, 0"
+                      ItemsSource="{Binding Clients}"
+                      AutoGenerateColumns="False"
+                      HeadersVisibility="Column"
+                      RowHeaderWidth="0"
+                      Visibility="Visible"
+                      SelectedItem="{Binding SelectedClient, UpdateSourceTrigger=PropertyChanged}">
+
+                <DataGrid.Columns>
+                    <DataGridTextColumn 
+                            Width="0.6*" 
+                            Header="Client name"
+                            Binding="{Binding client_name}"/>
+                    <DataGridTextColumn 
+                            Width="*" 
+                            Header="Client surname"
+                            Binding="{Binding client_surname}"/>
+                    <DataGridTextColumn 
+                            Width="0.8*" 
+                            Header="Client phone"
+                            Binding="{Binding client_phone}"/>
+                </DataGrid.Columns>
+
+            </DataGrid>
+
+            <Grid Name="AddClientView"
+                  Grid.Row="1"
+                  Visibility="Collapsed">
+                
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition Width="0.75*"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="1">
+                    
+                    <TextBlock Padding="0, 10" 
+                               HorizontalAlignment="Center"
+                               Style="{StaticResource Text_Style}"
+                               Margin="0">name</TextBlock>
+                    
+                    <TextBox HorizontalContentAlignment="Center" 
+                             Name="clientName"
+                             FontFamily="{StaticResource Montserrat}"
+                             Text="{Binding ClientName, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                    
+                    <TextBlock Padding="0, 10" 
+                               HorizontalAlignment="Center"
+                               Style="{StaticResource Text_Style}"
+                               Margin="0">surname</TextBlock>
+                    
+                    <TextBox HorizontalContentAlignment="Center" 
+                             Name="clientSurname"
+                             FontFamily="{StaticResource Montserrat}"
+                             Text="{Binding ClientSurname, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                    
+                    <TextBlock Padding="0, 10" 
+                               HorizontalAlignment="Center"
+                               Style="{StaticResource Text_Style}"
+                               Margin="0">phone number</TextBlock>
+                    
+                    <TextBox HorizontalContentAlignment="Center" 
+                             Name="clientPhone"
+                             FontFamily="{StaticResource Montserrat}"
+                             Text="{Binding ClientPhone, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                    
+                    <Button  Width="Auto"
+                             Name="AddUserButton" 
+                             Style="{StaticResource SimpleButtonStyle}"
+                             Command="{Binding AddCommand}">
+                        <TextBlock FontFamily="{StaticResource Montserrat}"
+                                   Style="{StaticResource TextStyle}"
+                                   Padding="10">
+                             Add</TextBlock>
+                    </Button>
+                    
+                </StackPanel>
+            </Grid>
+
+        </Grid>
+    </Grid>
+</UserControl>

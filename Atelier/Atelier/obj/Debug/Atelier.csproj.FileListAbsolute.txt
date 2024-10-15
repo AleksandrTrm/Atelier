@@ -1,0 +1,217 @@
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\Atelier.exe
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\Atelier.pdb
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Window1.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Window1.g.cs
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\App.g.cs
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Atelier_MarkupCompile.cache
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Atelier.g.resources
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Atelier.exe
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Atelier.pdb
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\View\Clients.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\View\Fittings.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\View\Models.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\View\Orders.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\View\Clients.g.cs
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\View\Fittings.g.cs
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\View\Models.g.cs
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\View\Orders.g.cs
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Atelier_MarkupCompile.lref
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Utilities\DataTemplate.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\Atelier.exe.config
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Atelier.csproj.AssemblyReference.cache
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Atelier.csproj.CoreCompileInputs.cache
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Style\Page.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Style\Button.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\App.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Style\Image.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Style\Text.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Style\DataGrid.baml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\EntityFramework.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\EntityFramework.xml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\obj\Debug\Atelier.csproj.Up2Date
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Buffers.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Memory.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Text.Json.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.ValueTuple.dll
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Buffers.xml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Memory.xml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Text.Json.xml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sanya\Рабочий стол\Atelier\Atelier\bin\Debug\System.ValueTuple.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Atelier.exe.config
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Atelier.exe
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Atelier.pdb
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.SqlServer.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.OData.Edm.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Buffers.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Memory.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Numerics.Vectors.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Encodings.Web.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Json.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.ValueTuple.dll
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.SqlServer.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.OData.Edm.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Buffers.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Memory.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Numerics.Vectors.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Encodings.Web.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Json.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.ValueTuple.xml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.csproj.AssemblyReference.cache
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.csproj.SuggestedBindingRedirects.cache
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Page.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\DataGrid.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Text.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Button.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Orders.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\App.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Clients.g.cs
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Fittings.g.cs
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Models.g.cs
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Orders.g.cs
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Window1.g.cs
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\App.g.cs
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier_MarkupCompile.cache
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier_MarkupCompile.lref
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Image.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Utilities\DataTemplate.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Clients.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Fittings.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Models.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Window1.baml
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.g.resources
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.csproj.CoreCompileInputs.cache
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.csproj.CopyComplete
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.exe
+H:\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.pdb
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\Atelier.exe.config
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\Atelier.exe
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\Atelier.pdb
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.OData.Edm.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Buffers.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Memory.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Json.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.ValueTuple.dll
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.OData.Edm.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Buffers.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Memory.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Json.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\bin\Debug\System.ValueTuple.xml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.csproj.AssemblyReference.cache
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Page.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\DataGrid.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Text.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Button.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\App.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Clients.g.cs
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Fittings.g.cs
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Models.g.cs
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Orders.g.cs
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Window1.g.cs
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\App.g.cs
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier_MarkupCompile.cache
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier_MarkupCompile.lref
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Image.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Utilities\DataTemplate.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Clients.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Fittings.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Models.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Orders.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Window1.baml
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.g.resources
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.csproj.CoreCompileInputs.cache
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.csproj.Up2Date
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.exe
+C:\Users\sanya\Рабочий стол\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.pdb
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Atelier.exe.config
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Atelier.exe
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Atelier.pdb
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.SqlServer.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.OData.Edm.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Buffers.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Memory.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Numerics.Vectors.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Encodings.Web.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Json.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.ValueTuple.dll
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\EntityFramework.SqlServer.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\Microsoft.OData.Edm.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Buffers.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Memory.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Numerics.Vectors.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Encodings.Web.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Text.Json.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\bin\Debug\System.ValueTuple.xml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.csproj.AssemblyReference.cache
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Page.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\DataGrid.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Text.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Button.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\App.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Clients.g.cs
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Fittings.g.cs
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Models.g.cs
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Orders.g.cs
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Window1.g.cs
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\App.g.cs
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier_MarkupCompile.cache
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier_MarkupCompile.lref
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Style\Image.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Utilities\DataTemplate.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Clients.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Fittings.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Models.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\View\Orders.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Window1.baml
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.g.resources
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.csproj.CoreCompileInputs.cache
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.csproj.Up2Date
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.exe
+D:\Учеба\Колледж\2 курс\БД\Практическая работа №9\Atelier\Atelier\obj\Debug\Atelier.pdb

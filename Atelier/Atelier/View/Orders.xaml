@@ -1,0 +1,161 @@
+﻿<UserControl x:Class="Atelier.View.Orders"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+	xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vm="clr-namespace:Atelier.ViewModel"
+    Width="622"
+    Height="600">
+
+    <UserControl.DataContext>
+        <vm:OrdersVM />
+    </UserControl.DataContext>
+
+    <Grid>
+        <Border Background="#272B2F"
+        CornerRadius="0,20,20,0"/>
+
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <Button Style="{StaticResource SimpleButtonStyle}"
+                        Name="RemoveFittingBtn"
+                        Command="{Binding DeleteCommand}">
+
+                    <TextBlock 
+                        Style="{StaticResource TextStyle}" 
+                        FontFamily="{StaticResource Montserrat}">
+                        Remove</TextBlock>
+                </Button>
+
+                <Button Grid.Column="1" 
+                        Style="{StaticResource SimpleButtonStyle}" 
+                        Name="UpdateFittingBtn"
+                        Command="{Binding EditCommand}">
+                    <TextBlock 
+                        Style="{StaticResource TextStyle}"
+                        FontFamily="{StaticResource Montserrat}">
+                        Save</TextBlock>
+                </Button>
+
+                <Button Style="{StaticResource SimpleButtonStyle}"
+                        Name="ReturnBtn"
+                        Visibility="Collapsed" 
+                        Click="ReturnBtn_Click">
+                    <TextBlock 
+                        Style="{StaticResource TextStyle}" 
+                        FontFamily="{StaticResource Montserrat}">
+                    Return</TextBlock>
+                </Button>
+
+                <Button Grid.Column="2" 
+                        Style="{StaticResource SimpleButtonStyle}" 
+                        Name="AddFittingBtn" 
+                        Click="AddFittingBtn_Click">
+                    <TextBlock 
+                        Style="{StaticResource TextStyle}"
+                        FontFamily="{StaticResource Montserrat}">
+                        Add</TextBlock>
+                </Button>
+
+            </Grid>
+
+            <DataGrid Style="{StaticResource DataGridStyle}" 
+                      Name="FittingsDataGrid" 
+                      Grid.Row="1"
+                      Padding="0, 5, 0, 0"
+                      ItemsSource="{Binding Orders}"
+                      AutoGenerateColumns="False"
+                      SelectedItem="{Binding SelectedOrder, UpdateSourceTrigger=PropertyChanged}"
+                      HeadersVisibility="Column"
+                      RowHeaderWidth="0"
+                      Visibility="Visible">
+
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn 
+                    Width="0.6*" 
+                    Header="Fitting date"
+                    Binding="{Binding date_of_order}"/>
+
+                    <DataGridTextColumn
+                    Width="*" 
+                    Header="Prepaid expense"
+                    Binding="{Binding prepaid_expense}"/>
+
+                    <DataGridTextColumn
+                    Width="*" 
+                    Header="Total cost"
+                    Binding="{Binding total_cost}"/>
+
+                    <DataGridTextColumn
+                    Width="*" 
+                    Header="Client"
+                    Binding="{Binding Client.client_surname}"/>
+
+                    <DataGridTextColumn
+                    Width="*" 
+                    Header="Model"
+                    Binding="{Binding Model.model_title}"/>
+
+                </DataGrid.Columns>
+
+            </DataGrid>
+
+            <!--<Grid Name="AddClientView"
+                  Grid.Row="1"
+                  Visibility="Collapsed">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition Width="0.75*"></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+
+                <StackPanel Grid.Column="1">
+
+                    <TextBlock Padding="0, 10"
+                       HorizontalAlignment="Center"
+                       Style="{StaticResource Text_Style}"
+                       Margin="0">date</TextBlock>
+
+                    <TextBox HorizontalContentAlignment="Center" 
+                     Name="clientName"
+                     FontFamily="{StaticResource Montserrat}"
+                     Text="{Binding , UpdateSourceTrigger=PropertyChanged}"></TextBox>
+
+                    <TextBlock Padding="0, 10" 
+                       HorizontalAlignment="Center"
+                       Style="{StaticResource Text_Style}"
+                       Margin="0">order number</TextBlock>
+
+                    <TextBox HorizontalContentAlignment="Center" 
+                     Name="clientSurname"
+                     FontFamily="{StaticResource Montserrat}"
+                     Text="{Binding OrderNumber, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+
+                    <Button  Width="Auto"
+                     Name="AddUserButton" 
+                     Style="{StaticResource SimpleButtonStyle}"
+                     Command="{Binding AddCommnad}">
+                        <TextBlock FontFamily="{StaticResource Montserrat}"
+                           Style="{StaticResource TextStyle}"
+                           Padding="10">
+                     Add</TextBlock>
+                    </Button>
+
+                </StackPanel>
+            </Grid>-->
+
+        </Grid>
+    </Grid>
+
+</UserControl>
